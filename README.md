@@ -16,4 +16,5 @@ A Repo to  learn Rust
 
 
 ## Index
-- [Hello World](https://github.com/SudhindraKovalam/LearnRust/blob/helloworld/README.md)
+- [Hello World](https://github.com/SudhindraKovalam/LearnRust/blob/main/helloworld/README.md)
+- [Variables](https://github.com/SudhindraKovalam/LearnRust/blob/main/variables/README.md)
